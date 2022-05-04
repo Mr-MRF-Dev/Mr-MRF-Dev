@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,%20I'm%20%20Mr%20MRF;Coming%20Soon%20...%20:%29)](https://git.io/typing-svg)
  
  <div align="center">
-   <a href="https://mr-mrf-dev.github.io/Profile-Card/"><img src="https://img.shields.io/badge/Profile%20Card-Passing-brightgreen"></a>
+   <a href="https://mr-mrf-dev.github.io/"><img src="https://img.shields.io/badge/Mr%20MRF%20Official%20Website-Visit-brightgreen"></a>
+   <a href="https://mr-mrf-dev.github.io/Profile-Card/"><img src="https://img.shields.io/badge/Profile%20Card-Visit-brightgreen"></a>
 </div> 
  
 <div align="center">
