@@ -3,6 +3,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,%20I'm%20%20Mr%20MRF;Coming%20Soon%20...%20:%29)](https://git.io/typing-svg)
  
+ <div align="center">
+   <a href="https://mr-mrf-dev.github.io/Profile-Card/"><img src="https://img.shields.io/badge/Profile%20Card-Passing-brightgreen"></a>
+</div> 
+ 
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Mr-MRF-Dev&theme=react-dark&hide_border=true&area=true" />
 <!--  ![Contribution](https://activity-graph.herokuapp.com/graph?username=NazarovAsadbek&theme=react-dark&hide_border=true&area=true) -->
