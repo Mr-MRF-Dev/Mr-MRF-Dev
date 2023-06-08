@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,%20I'm%20%20Mr%20MRF;Coming%20Soon%20...%20:%29)](https://git.io/typing-svg)
 
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Mr-MRF-Dev&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-MRF-Dev&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 <!-- ./STAT -->
