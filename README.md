@@ -17,12 +17,18 @@
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-MRF-Dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/></div>
 
-<h3 align="center">« I Know a Little About These Tools & Technologies »</h3>
+<div align="center">	
 
-<div align="center">
-  <a href="https://skillicons.dev">
-	  <img src="https://skillicons.dev/icons?i=md,vscode,github,git,js,html,css,c,cpp,qt,py&perline=3"/>
-  </a>
+### « Languages and Tools »
+
+<!-- « Languages » -->
+[![Typing SVG](https://skillicons.dev/icons?i=md,py,c,cpp,js,html,css)](https://skillicons.dev)
+
+<!-- « Frameworks & Libraries » -->
+[![Typing SVG](https://skillicons.dev/icons?i=qt)](https://skillicons.dev)
+
+<!-- « Softwares & Tools » -->
+[![Typing SVG](https://skillicons.dev/icons?i=vscode,linux,github,git)](https://skillicons.dev)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
