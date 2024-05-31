@@ -35,7 +35,7 @@
 
 <!-- « Softwares & Tools » -->
 [![Typing SVG](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Typing SVG](https://skillicons.dev/icons?i=linux)](#)
+[![Typing SVG](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
 [![Typing SVG](https://skillicons.dev/icons?i=github)](https://github.com/)
 [![Typing SVG](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 </div>
