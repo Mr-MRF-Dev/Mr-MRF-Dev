@@ -19,25 +19,16 @@
 
 <div align="center">	
 
-### « Languages and Tools »
+### « Programming Languages »
 
-<!-- « Languages » -->
-[![Typing SVG](https://skillicons.dev/icons?i=md)](https://www.markdownguide.org/)
-[![Typing SVG](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-[![Typing SVG](https://skillicons.dev/icons?i=c)](#)
-[![Typing SVG](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
-[![Typing SVG](https://skillicons.dev/icons?i=js)](#)
-[![Typing SVG](https://skillicons.dev/icons?i=html)](https://html.spec.whatwg.org/)
-[![Typing SVG](https://skillicons.dev/icons?i=css)](#)
+[![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,sql,js,html,css)](#)
 
-<!-- « Frameworks & Libraries » -->
-[![Typing SVG](https://skillicons.dev/icons?i=qt)](https://www.qt.io/)
+### « Technologies & Frameworks & Libraries »
+[![Typing SVG](https://skillicons.dev/icons?i=qt)](#)
 
-<!-- « Softwares & Tools » -->
-[![Typing SVG](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
-[![Typing SVG](https://skillicons.dev/icons?i=linux)](https://www.kernel.org/)
-[![Typing SVG](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Typing SVG](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+### « Other Tools & Technologies »
+[![Typing SVG](https://skillicons.dev/icons?i=md,vscode,linux,github,git)](#)
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
