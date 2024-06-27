@@ -21,12 +21,12 @@
 
 ### « Programming Languages »
 
-[![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,js,html,css)](#)
+[![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,js)](#)
 
 ### « Technologies & Frameworks & Libraries »
-[![Typing SVG](https://skillicons.dev/icons?i=qt)](#)
+[![Typing SVG](https://skillicons.dev/icons?i=qt,html,css,tailwind)](#)
 
-### « Other Tools & Technologies »
+### « Tools & Softwares »
 [![Typing SVG](https://skillicons.dev/icons?i=md,vscode,linux,github,git)](#)
 
 </div>
