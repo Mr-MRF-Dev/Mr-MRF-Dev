@@ -21,7 +21,7 @@
 
 ### « Programming Languages »
 
-[![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,js)](#)
+[![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,ts,js)](#)
 
 ### « Technologies & Frameworks & Libraries »
 [![Typing SVG](https://skillicons.dev/icons?i=qt,html,css,tailwind)](#)
