@@ -23,11 +23,14 @@
 
 [![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,ts,js)](#)
 
-### « Technologies & Frameworks & Libraries »
-[![Typing SVG](https://skillicons.dev/icons?i=qt,html,css,tailwind)](#)
+### « Front-End Technologies »
+[![Typing SVG](https://skillicons.dev/icons?i=html,css,tailwind,bun,vite)](#)
+
+### « Other Technologies »
+[![Typing SVG](https://skillicons.dev/icons?i=qt,flask,cmake,arduino)](#)
 
 ### « Tools & Softwares »
-[![Typing SVG](https://skillicons.dev/icons?i=md,vscode,linux,github,git)](#)
+[![Typing SVG](https://skillicons.dev/icons?i=bash,powershell,md,vscode,windows,linux,github,git,docker)](#)
 
 </div>
 
