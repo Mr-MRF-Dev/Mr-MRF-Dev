@@ -21,16 +21,16 @@
 
 ### « Programming Languages »
 
-[![Typing SVG](https://skillicons.dev/icons?i=py,c,cpp,ts,js)](#)
+[![Typing SVG](https://skillicons.dev/icons?perline=9&i=py,c,cpp,ts,js)](#)
 
 ### « Front-End Technologies »
-[![Typing SVG](https://skillicons.dev/icons?i=html,css,tailwind,bun,vite)](#)
+[![Typing SVG](https://skillicons.dev/icons?perline=9&i=html,css,tailwind,bun,vite)](#)
 
 ### « Other Technologies »
-[![Typing SVG](https://skillicons.dev/icons?i=qt,flask,cmake,arduino)](#)
+[![Typing SVG](https://skillicons.dev/icons?perline=9&i=qt,flask,cmake,arduino)](#)
 
 ### « Tools & Softwares »
-[![Typing SVG](https://skillicons.dev/icons?i=bash,powershell,md,vscode,windows,linux,github,git,docker)](#)
+[![Typing SVG](https://skillicons.dev/icons?perline=9&i=bash,powershell,md,vscode,windows,linux,github,git,docker)](#)
 
 </div>
 
