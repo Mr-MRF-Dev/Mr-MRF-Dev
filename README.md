@@ -18,6 +18,7 @@
 <!-- ./STATS  -->
 <div align="center"><img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-MRF-Dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/></div>
 
+<!-- 
 <div align="center">	
 
 ### « Programming Languages »
@@ -34,6 +35,7 @@
 [![Typing SVG](https://skillicons.dev/icons?perline=6&i=bash,powershell,md,vscode,windows,linux,github,git,docker)](#)
 
 </div>
+--> 
 
 <!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
