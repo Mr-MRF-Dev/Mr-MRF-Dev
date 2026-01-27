@@ -1,0 +1,32 @@
+name: Generate Github Snake 🐍
+
+on:
+    # run automatically every 24 hours
+    schedule:
+        - cron: "0 */24 * * *"
+    # allows to manually run the job at any time
+    workflow_dispatch:
+
+jobs:
+    main:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 5
+
+        steps:
+            - name: ⚙ Generate Github Contribution Grid Snake
+              uses: Platane/snk/svg-only@latest
+              with:
+                  github_user_name: ${{ github.repository_owner }}
+                  outputs: |
+                      dist/github-contribution-grid-snake.svg?color_snake=#7845ab
+                      dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=blue
+
+            - name: Push Github Contribution Grid Snake.svg to the Output Branch
+              uses: crazy-max/ghaction-github-pages@latest
+              with:
+                  target_branch: output
+                  build_dir: dist
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
