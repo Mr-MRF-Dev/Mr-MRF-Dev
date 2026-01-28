@@ -14,7 +14,6 @@
 
 <!-- Streak Stats  -->
 <div align="center">
-   <!-- <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-MRF-Dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/> -->
    <img height="auto" width="91%" src="https://streak-stats.demolab.com/?user=Mr-MRF-Dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
 </div>
 
@@ -37,8 +36,18 @@
 </div>
 -->
 
-<picture align="center">
+<div align="center">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-MRF-Dev/Mr-MRF-Dev/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-MRF-Dev/Mr-MRF-Dev/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Mr-MRF-Dev/Mr-MRF-Dev/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<br />
+<br />
+<br />
+
+<div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
+</div>
