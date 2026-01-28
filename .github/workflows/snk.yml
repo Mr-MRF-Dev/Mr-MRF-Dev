@@ -1,9 +1,9 @@
 name: Generate Github Snake 🐍
 
 on:
-    # run automatically every 24 hours
+    # run automatically every 24 hours, run at 20:00 UTC.
     schedule:
-        - cron: "0 */24 * * *"
+        - cron: '0 20 * * *'
     workflow_dispatch:
     push:
         branches:
