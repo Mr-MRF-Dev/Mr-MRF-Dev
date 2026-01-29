@@ -51,3 +51,9 @@
 <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Readme Quotes" />
 </div>
+
+<br />
+
+---
+
+created with 🍀 & ☕ by [Mr MRF Dev](http://mr-mrf-dev.github.io/)
