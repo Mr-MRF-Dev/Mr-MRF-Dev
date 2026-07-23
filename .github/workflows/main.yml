@@ -26,7 +26,7 @@ jobs:
                   card: stats
                   options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117
                   path: dist/stats.svg
-                  token: ${{ secrets.PAT }}
+                  token: ${{ secrets.GITHUB_TOKEN }}
 
             - name: 🔥 Generate top languages card
               uses: readme-tools/github-readme-stats-action@v2
