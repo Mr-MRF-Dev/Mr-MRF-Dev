@@ -1,7 +1,7 @@
-name: 🍀 Generate Github Readme Content
+name: 🍀 Generate GitHub Readme Content
 
 on:
-    # run automatically every 24 hours, run at 23:00 UTC.
+    # Run automatically every 24 hours, run at 22:00 UTC.
     schedule:
         - cron: "00 22 * * *"
     workflow_dispatch:
@@ -26,7 +26,7 @@ jobs:
                   card: stats
                   options: username=${{ github.repository_owner }}&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117
                   path: dist/stats.svg
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  token: ${{ secrets.PAT }}
 
             - name: 🔥 Generate top languages card
               uses: readme-tools/github-readme-stats-action@v2
@@ -36,7 +36,7 @@ jobs:
                   path: dist/top-langs.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: ⚙ Generate Github Contribution Grid Snake
+            - name: ⚙ Generate GitHub Contribution Grid Snake
               uses: Platane/snk/svg-only@v3
               with:
                   github_user_name: ${{ github.repository_owner }}
@@ -44,7 +44,7 @@ jobs:
                       dist/github-contribution-grid-snake.svg?color_snake=#00BFBF
                       dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#008080
 
-            - name: 🚀 Push Github Contribution Grid Snake.svg to the Output Branch
+            - name: 🚀 Push GitHub Contribution Grid Snake.svg to the Output Branch
               uses: crazy-max/ghaction-github-pages@v5
               with:
                   target_branch: output
