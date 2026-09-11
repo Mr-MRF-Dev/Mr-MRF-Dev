@@ -2,7 +2,7 @@
 
 <!-- github activity graph -->
 <div align="center">
-   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-MRF-Dev&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://raw.githubusercontent.com/Mr-MRF-Dev/Mr-MRF-Dev/output/activity-graph.svg" />
 </div>
 
 <!-- github stats & top langs -->

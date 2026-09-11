@@ -20,6 +20,14 @@ jobs:
             - name: 📦 Checkout the repository
               uses: actions/checkout@v6
 
+            - name: 📈 Generate activity graph
+              uses: maurodesouza/github-readme-activity-graph-action@v1
+              with:
+                  username: ${{ github.repository_owner }}
+                  options: theme=react-dark&hide_border=true&area=true
+                  output_path: dist/activity-graph.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
             - name: 🧮 Generate stats card
               uses: readme-tools/github-readme-stats-action@v2
               with:
