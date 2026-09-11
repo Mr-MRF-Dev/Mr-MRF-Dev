@@ -14,7 +14,7 @@
 
 <!-- Streak Stats  -->
 <div align="center">
-   <img height="auto" width="91%" src="https://streak-stats.demolab.com/?user=Mr-MRF-Dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
+   <img height="auto" width="91%" src="https://raw.githubusercontent.com/Mr-MRF-Dev/Mr-MRF-Dev/output/streak.svg"/>
 </div>
 
 <!--

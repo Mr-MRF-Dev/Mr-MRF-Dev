@@ -44,6 +44,13 @@ jobs:
                   path: dist/top-langs.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
 
+            - name: ✨ Generate streak stats
+              uses: DenverCoder1/github-readme-streak-stats@main
+              with:
+                  options: user=${{ github.repository_owner }}&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf
+                  path: dist/streak.svg
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
             - name: ⚙ Generate GitHub Contribution Grid Snake
               uses: Platane/snk/svg-only@v3
               with:
