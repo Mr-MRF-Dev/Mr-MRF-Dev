@@ -1,9 +1,9 @@
 name: 🍀 Generate GitHub Readme Content
 
 on:
-    # Run automatically every 24 hours, run at 22:00 UTC.
+    # Run automatically every 24 hours, run at 20:00 UTC.
     schedule:
-        - cron: "00 22 * * *"
+        - cron: "00 20 * * *"
     workflow_dispatch:
     push:
         branches:
